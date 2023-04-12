@@ -9,12 +9,11 @@ Welcome to Omnivity X's GitHub repository! Omnivity X is a cutting-edge technolo
 At Omnivity X, we specialize in:
 
 1. AI Strategy Consulting
-2. AI Model Development
-3. Data Engineering
-4. AI Ethics and Compliance
-5. AI Training and Workshops
-6. AI Solution Evaluation
-7. Ongoing Support and Maintenance
+2. AI Model Implementation
+3. AI Ethics and Compliance
+4. AI Training and Workshops
+5. AI Solution Evaluation
+6. Ongoing Support and Maintenance
 
 ## Our Core Values
 
